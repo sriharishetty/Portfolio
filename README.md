@@ -8,5 +8,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 -  Thank You for visiting😀
 
-![Portfolio Sample](path/to/your/image.jpg)
+![Portfolio Sample](Materials/img/image.png)
 
