@@ -1,5 +1,7 @@
-> ## Responsive Portfolio Website Mrinmoy
+> ## Responsive Portfolio Website Srihari Gangisetti
 
+Welcome to my portfolio!
+This front page showcases a clean and modern design that reflects my skills and projects. Built using HTML, CSS, and JavaScript, it features a responsive layout that adapts seamlessly to various devices. Explore my work, skills, and achievements to get a glimpse of what I can bring to your team!
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
@@ -8,8 +10,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 -  Thank You for visiting😀
 
-> ## Preview:
-![Preview.png](https://github.com/MRINMOY662/Modern-Portfolio-Website-Template/blob/main/preview.png)
-
-
+![Portfolio Sample](Materials/img/image.png)
 
