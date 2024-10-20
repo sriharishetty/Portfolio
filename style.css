@@ -6,21 +6,22 @@
   --header-height: 3rem;
 
   /*========== Colors ==========*/
-  /* Change favorite color */
-  --hue-color: 225;
-  /* RGB color mode */
-    --first-color: rgb(0, 136, 255); /* Blue */
-    --first-color-second: rgb(0, 102, 191); /* Blue */
-    --first-color-alt: rgb(0, 90, 191); /* Blue with slightly lower intensity */
-    --first-color-lighter: rgb(90, 126, 170); /* Lighter shade of blue */
-    --title-color: rgb(0, 75, 191); /* Darker shade of blue for titles */
-    --text-color: rgb(50, 126, 191); /* Text color with a lighter blue shade */
-    --text-color-light: rgb(0, 0, 0); /* Lighter text color */
-    --input-color: rgb(141, 172, 191); /* Lighter shade of blue for input */
-    --body-color: rgb(255, 255, 255); /* Alice Blue for the body */
-    --scroll-bar-color: rgb(102, 148, 191); /* A shade of blue for the scrollbar */
-    --scroll-thumb-color: rgb(50, 129, 191); /* Blue */
-    --background-color: rgb(240, 240, 240); /* Light Grey */
+/* Change favorite color */
+--hue-color: 30; /* Adjusted for orange */
+/* RGB color mode */
+--first-color: rgb(255, 165, 0); /* Orange */
+--first-color-second: rgb(255, 140, 0); /* Darker Orange */
+--first-color-alt: rgb(255, 120, 0); /* Slightly lower intensity orange */
+--first-color-lighter: rgb(255, 200, 100); /* Lighter shade of orange */
+--title-color: rgb(204, 102, 0); /* Darker shade of orange for titles */
+--text-color: rgb(255, 150, 0); /* Text color with a lighter orange shade */
+--text-color-light: rgb(0, 0, 0); /* Lighter text color (unchanged) */
+--input-color: rgb(255, 180, 100); /* Lighter shade of orange for input */
+--body-color: rgba(255, 228, 196, 0.362); /* Light Orange (Peach Puff) */
+--scroll-bar-color: rgb(255, 140, 0); /* A shade of orange for the scrollbar */
+--scroll-thumb-color: rgb(255, 165, 0); /* Orange */
+--background-color: rgb(240, 240, 240); /* Light Grey (unchanged) */
+
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
